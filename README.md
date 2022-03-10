@@ -6,4 +6,7 @@ Reaction Diffusion Model</h2>
 <img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/demo.gif?raw=true">
 
 ## Introduction
-need to write
+I was inspired by this <a href="https://youtu.be/kzwT3wQWAHE">video</a> and took some help from this <a href="https://www.karlsims.com/rd.html">webpage</a>! 
+
+## Controls 
+Just hover around and click your ```Left Mouse Button```! Additionally you can clear the whole grid by pressing ```Enter``` and pause the simulation by pressing the ```Space Bar```!
