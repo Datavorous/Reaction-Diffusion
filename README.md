@@ -10,3 +10,6 @@ I was inspired by this <a href="https://youtu.be/kzwT3wQWAHE">video</a> and took
 
 ## Controls 
 Just hover around and click your ```Left Mouse Button```! Additionally you can clear the whole grid by pressing ```Enter``` and pause the simulation by pressing the ```Space Bar```!
+
+## Notes
+Change the Feed and Kill rates to see variations!
