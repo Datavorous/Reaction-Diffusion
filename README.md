@@ -2,7 +2,7 @@
 Reaction Diffusion Model</h2>
 <p align="center">Made in C++ with raylib!</p>
 
-## Demo 
+## Demos
 <img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/corals.gif?raw=true">
 <img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/mitosis.gif?raw=true">
 
