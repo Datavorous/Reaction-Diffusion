@@ -3,7 +3,8 @@ Reaction Diffusion Model</h2>
 <p align="center">Made in C++ with raylib!</p>
 
 ## Demo 
-<img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/demo.gif?raw=true">
+<img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/corals.gif?raw=true">
+<img src="https://github.com/Datavorous/ReactionDiffusion/blob/main/mitosis.gif?raw=true">
 
 ## Introduction
 I was inspired by this <a href="https://youtu.be/kzwT3wQWAHE">video</a> and took some help from this <a href="https://www.karlsims.com/rd.html">webpage</a>! 
